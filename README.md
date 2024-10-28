@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the IT industry
 - 📫 How to reach me www.linkedin.com/in/karolina-sandak
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaSandak&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaSandak&show_icons=true&theme=cobalt)
 
 <!---
 KarolinaSandak/KarolinaSandak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
