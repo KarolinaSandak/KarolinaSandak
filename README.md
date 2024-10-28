@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarolinaSandak
+- 👋 Hi, I’m @KarolinaSandak                                                          ![Karolina Sandak](https://pl.pinterest.com/pin/869687378015556039/)
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning testing tools
 - 💞️ I’m looking to collaborate on the IT industry
