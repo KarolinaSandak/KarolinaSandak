@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning testing tools
 - 💞️ I’m looking to collaborate on the IT industry
 - 📫 How to reach me www.linkedin.com/in/karolina-sandak
-
+<div style="page-break-after: always;"></div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaSandak&show_icons=true&theme=merko)
 
 <!---
